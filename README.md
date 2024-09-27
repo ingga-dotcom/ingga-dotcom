@@ -1,6 +1,5 @@
-- 👋 Hi there, I’m @ingga-dotcom
-- 😄 Pronouns: She/Her
-- 📫 How to reach me: drop a message through my GitHub
+- 👋 Hi there ..
+- 😄 I’m @ingga-dotcom
 - 🌱 learning to grow 🌱
 
 
